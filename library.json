@@ -1,0 +1,15 @@
+{
+  "name": "LiquidCrystal_I2cTUR",
+  "keywords": "LCD, liquidcrystal, I2C, Türkçe",
+  "description": "A library for DFRobot I2C LCD displays, Turkish chars directly supported.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/HakkanR/LiquidCrystal_I2cTUR.git"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr"
+  ]
+}

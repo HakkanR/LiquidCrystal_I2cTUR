@@ -1,2 +1,3 @@
 # LiquidCrystal_I2cTUR
-20x4 LCD Display Library with Turkish Char Support
+LiquidCrystal Arduino library for the DFRobot I2C LCD displays
+Direkt Türkçe karakter kullanım desteği.
