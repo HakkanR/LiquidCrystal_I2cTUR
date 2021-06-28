@@ -20,7 +20,7 @@ void setup()
    lcd.setCursor(0,2);
   lcd.print("Arduino LCM IIC 2004");
    lcd.setCursor(2,3);
-  lcd.print("Türkçe HakkanR");
+  lcd.print("Türkçe HakkanR 2021");
 }
 
 
